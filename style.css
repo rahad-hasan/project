@@ -292,12 +292,3 @@ h2.my-auto {
 .single-pricing-table.text-center:hover .pricing-list{
 	border-color:#ef476f;
 }
-.menu ul li a{
-	background:yellow;
-	padding:30px;
-	border-radius:40%;
-	
-}
-.menu ul li{
-	transform:rotate(90deg);
-}
